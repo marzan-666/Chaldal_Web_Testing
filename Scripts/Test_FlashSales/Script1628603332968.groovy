@@ -21,17 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://chaldal.com/')
 
-WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Chaldal  Online Grocery Shopping and D_1c8b72/a_Flash Sales'))
+WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/Page_Chaldal  Online Grocery Shopping and D_1c8b72/a_Flash Sales'))
 
-WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/div_Flash Sales'))
+WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/Page_Flash Sales - Chaldal Online Grocery S_e63a60/span_Flash Sales'))
 
-WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/span_Flash Sales'))
+WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/Page_Flash Sales - Chaldal Online Grocery S_e63a60/div_Flash Sales'))
 
-WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/a_Flash Sales'))
-
-WebUI.rightClick(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/a_Flash Sales'))
-
-WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/div_Flash Sales'))
+WebUI.click(findTestObject('Object Repository/Flash Sales/Page_Flash Sales - Chaldal Online Grocery S_e63a60/Page_Flash Sales - Chaldal Online Grocery S_e63a60/a_Flash Sales'))
 
 WebUI.closeBrowser()
 
