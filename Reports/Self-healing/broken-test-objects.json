@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Sign in/Page_Chaldal  Online Grocery Shopping and D_1c8b72/input_concat(We, , ve sent a 4-digit one ti_94de26",
+      "brokenLocator": "//input[@name\u003d\u0027otp\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Sign in/Page_Chaldal  Online Grocery Shopping and D_1c8b72/input_concat(We, , ve sent a 4-digit one ti_94de26_position.png"
+    }
+  ]
 }
